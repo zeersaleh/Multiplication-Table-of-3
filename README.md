@@ -1,5 +1,7 @@
 # Çarpım Tablosu Test Oyunları (x3 - x14)
+
 ## İlgi Çekici Araçlarla Öğrenmeyi Geliştirme
+![Game Screenshot](game-image.png "Screenshot from the game")
 
 Eğitimciler olarak, sürekli olarak öğrencilerin dikkatini çekecek ve etkili öğrenme ortamları geliştirecek yenilikçi stratejiler ararız. Bazı temel öğrenme görevleri ustalık için tekrarlayan pratik gerektirse de, bunlar zaman zaman hem öğretmenler hem de öğrenciler için monoton hale gelebilir.
 
